@@ -1,10 +1,10 @@
 <!-- Animated Header Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF88&center=true&width=600&lines=👋+Hi,+I'm+Adhitya!;🚀+Full+Stack+Developer;📸+Image+Processing+Enthusiast;💡+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF88&center=true&width=900&lines=👋+Hi,+I'm+Adhitya!;💼+IT+Enthusiast+%7C+IT+Supervisor+%7C+IT+Support+Specialist;🚀+Full+Stack+Developer+%7C+Image+Processing+Expert;📸+Computer+Vision+Explorer+%7C+Always+Learning" alt="Typing SVG" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <h3>Passionate Developer | Python Enthusiast | Computer Vision Explorer</h3>
+  <h3>🔧 Information Technology Professional | 📸 Image Processing Specialist | 💡 Technology Innovator</h3>
   
   [![GitHub followers](https://img.shields.io/github/followers/Adhitya-Januarizky-Hadi-Putra?style=for-the-badge&color=00FF88&labelColor=1a1a2e)](https://github.com/Adhitya-Januarizky-Hadi-Putra)
   [![GitHub Stars](https://img.shields.io/github/stars/Adhitya-Januarizky-Hadi-Putra?style=for-the-badge&color=00FF88&labelColor=1a1a2e)](https://github.com/Adhitya-Januarizky-Hadi-Putra?tab=repositories)
@@ -14,14 +14,16 @@
 
 ## 💼 About Me
 
-I'm a passionate developer dedicated to building **interactive applications** and exploring cutting-edge **image processing** and **computer vision** technologies. I thrive on transforming complex ideas into elegant, functional code while continuously expanding my technical expertise.
+I'm a dedicated **IT Professional** with expertise in **IT Support, Supervision, and System Administration**, combined with a passion for **image processing** and **computer vision** technologies. As an **IT Enthusiast**, I bridge the gap between infrastructure management and cutting-edge development, building robust solutions and creating interactive applications that solve real-world problems.
 
-**🎯 Current Focus:**
+**🎯 Professional Focus:**
+- 🖥️ **IT Support & Supervision** - Providing technical support, system administration, and IT infrastructure management
+- 🔧 **IT Troubleshooting** - Diagnosing and resolving complex technical issues efficiently
 - 🐍 **Python Development** - Building robust, scalable, and efficient applications
-- 📸 **Image Enhancement** - Advanced digital image processing techniques
-- 🎨 **UI/UX Development** - Creating intuitive user-friendly interfaces
-- 🤖 **Computer Vision** - Exploring AI and machine learning fundamentals
-- 📚 **Continuous Learning** - Always pushing boundaries and exploring new tech
+- 📸 **Image Processing & Computer Vision** - Advanced digital image enhancement and analysis
+- 🎨 **Application Development** - Creating intuitive and user-friendly interfaces
+- 📚 **Continuous Learning** - Staying updated with latest IT trends and technologies
+- 🤖 **AI & Machine Learning** - Exploring artificial intelligence fundamentals
 
 ---
 
@@ -29,20 +31,30 @@ I'm a passionate developer dedicated to building **interactive applications** an
 
 <div align="center">
   
-### 💻 Languages
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔧 Tools & Frameworks
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+### 🔧 IT & Infrastructure Tools
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 📦 Frameworks & Libraries
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 💼 Professional Tools
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🎯 Specializations
-**Image Processing** • **Data Analysis** • **Computer Vision** • **Interactive Applications** • **UI/UX Development**
+**IT Support & Administration** • **Image Processing** • **Computer Vision** • **Data Analysis** • **Full-Stack Development** • **System Infrastructure**
 
 </div>
 
@@ -66,13 +78,95 @@ I'm a passionate developer dedicated to building **interactive applications** an
 
 ---
 
+### 🌐 [Zavora-Life](https://github.com/Adhitya-Januarizky-Hadi-Putra/Zavora-Life)
+> Blade-based web application for lifestyle and personal management
+
+**Features:**
+- 📱 Responsive design
+- 🎯 User-friendly interface
+- 💾 Data management system
+- ⚡ Fast and efficient performance
+
+**Tech Stack:** Blade | JavaScript | HTML5 | CSS3  
+**Status:** Active Development
+
+---
+
+### 🏥 [Website-ipk-aksela](https://github.com/Adhitya-Januarizky-Hadi-Putra/Website-ipk-aksela)
+> Professional website platform for institutional management (IPK Aksela)
+
+**Features:**
+- 🎨 Modern web interface
+- 📊 Data analytics dashboard
+- 🔐 Secure authentication
+- 📱 Mobile responsive
+
+**Tech Stack:** JavaScript | HTML5 | CSS3  
+**Status:** Active Development
+
+---
+
+### 🏥 [Penelusur_Rimba](https://github.com/Adhitya-Januarizky-Hadi-Putra/Penelusur_Rimba)
+> Blade-based forest exploration and monitoring system
+
+**Features:**
+- 🌳 Environmental tracking
+- 📍 Location-based services
+- 📊 Data visualization
+- 🔔 Real-time notifications
+
+**Tech Stack:** Blade | JavaScript  
+**Status:** Active Development
+
+---
+
+### 🏥 [SEHAT_RASA](https://github.com/Adhitya-Januarizky-Hadi-Putra/SEHAT_RASA)
+> Comprehensive health and wellness management system
+
+**Description:** TUGAS - Project for health monitoring and wellness tracking
+
+**Features:**
+- 💊 Health metrics tracking
+- 📈 Progress monitoring
+- 📱 User dashboard
+- 🔔 Reminder system
+
+**Tech Stack:** Full-Stack Development  
+**Status:** Project Complete
+
+---
+
+### 🏥 [Sehat-Rasa](https://github.com/Adhitya-Januarizky-Hadi-Putra/Sehat-Rasa)
+> JavaScript-based health and wellness application
+
+**Features:**
+- 📊 Health statistics
+- 💾 Data persistence
+- 🎯 Goal tracking
+- 📱 Responsive interface
+
+**Tech Stack:** JavaScript | HTML5 | CSS3  
+**Last Updated:** July 6, 2025 | **Status:** Maintained
+
+---
+
+### 📚 [KELOMPOK-9](https://github.com/Adhitya-Januarizky-Hadi-Putra/KELOMPOK-9)
+> PROJECT UAS KELOMPOK 0 - Collaborative university final project
+
+**Description:** Comprehensive group project for academic purposes
+
+**Tech Stack:** Multi-language  
+**Last Updated:** December 22, 2022 | **Status:** Archived
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
 ![Adhitya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adhitya-Januarizky-Hadi-Putra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=GitHub%20Performance%20Metrics)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adhitya-Januarizky-Hadi-Putra&layout=compact&theme=tokyonight&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adhitya-Januarizky-Hadi-Putra&layout=compact&theme=tokyonight&langs_count=10)
 
 ![Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=Adhitya-Januarizky-Hadi-Putra&theme=tokyonight&hide_border=true&stroke=00FF88&ring=00FF88&fire=FF0080&currStreakNum=00FF88&sideNums=00FF88)
 
@@ -80,16 +174,17 @@ I'm a passionate developer dedicated to building **interactive applications** an
 
 ---
 
-## 🎯 Learning & Growth Path
+## 🎯 Professional Development Path
 
 <div align="center">
 
-| 🔬 Current Learning | 🚀 Planning to Learn |
-|:---:|:---:|
-| Advanced Image Processing Algorithms | Machine Learning & Deep Learning |
-| Computer Vision Fundamentals | TensorFlow & PyTorch |
-| UI/UX Design Principles | Web Development (React/Vue) |
-| Data Structures & Algorithms | Cloud Computing (AWS/GCP) |
+| 🔬 Current Expertise | 🚀 Currently Learning | 📈 Future Goals |
+|:---:|:---:|:---:|
+| IT Support & Administration | Advanced Image Processing | Cloud Infrastructure |
+| System Troubleshooting | Machine Learning & AI | DevOps & CI/CD |
+| Network Management | Web Development Frameworks | Cybersecurity |
+| Database Management | Docker & Containerization | Data Science |
+| User Support | Kubernetes Orchestration | Enterprise Solutions |
 
 </div>
 
@@ -98,11 +193,12 @@ I'm a passionate developer dedicated to building **interactive applications** an
 ## 💡 Open to Collaboration
 
 I'm enthusiastically looking for opportunities to:
-- 🤝 **Collaborate** on innovative open-source projects
-- 💬 **Discuss** technical challenges and solutions
-- 🎓 **Share knowledge** and learn from the community
-- 🚀 **Build** exciting projects that make a difference
-- 📖 **Mentor** aspiring developers
+- 🤝 **Collaborate** on innovative IT projects and development initiatives
+- 💬 **Share knowledge** about IT best practices and technical solutions
+- 🎓 **Mentor** aspiring IT professionals and developers
+- 🚀 **Build** scalable solutions that make a real impact
+- 📖 **Contribute** to open-source projects
+- 🔧 **Solve** complex technical challenges
 
 ---
 
@@ -112,13 +208,14 @@ I'm enthusiastically looking for opportunities to:
 
 ### 📧 Email
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhitya.januarizky93@gmail.com)
+**adhitya.januarizky93@gmail.com**
 
 ### 💼 Professional Networks
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhitya-januarizky)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adhitya-Januarizky-Hadi-Putra)
 
 ### 🌐 Quick Links
-[**My Portfolio**](#) • [**View My Projects**](https://github.com/Adhitya-Januarizky-Hadi-Putra?tab=repositories) • [**Get In Touch**](mailto:adhitya.januarizky93@gmail.com)
+[**View My Projects**](https://github.com/Adhitya-Januarizky-Hadi-Putra?tab=repositories) • [**Get In Touch**](mailto:adhitya.januarizky93@gmail.com) • [**Connect on LinkedIn**](https://www.linkedin.com/in/adhitya-januarizky)
 
 </div>
 
@@ -129,10 +226,21 @@ I'm enthusiastically looking for opportunities to:
 <div align="center">
 
 ![Total Contributions](https://img.shields.io/badge/Total%20Contributions-1600%2B-00FF88?style=for-the-badge&logo=github)
-![Repositories](https://img.shields.io/badge/Public%20Repos-5%2B-00FF88?style=for-the-badge&logo=github)
+![Public Repositories](https://img.shields.io/badge/Public%20Repos-10%2B-00FF88?style=for-the-badge&logo=github)
 ![Code Quality](https://img.shields.io/badge/Code%20Quality-High-00FF88?style=for-the-badge)
+![Experience](https://img.shields.io/badge/IT%20Experience-Multiple%20Years-00FF88?style=for-the-badge)
 
 </div>
+
+---
+
+## 📝 Recent Activity
+
+- 🔧 Actively maintaining multiple projects
+- 📚 Continuously learning new technologies
+- 🤝 Open to collaboration and mentoring
+- 💡 Exploring advanced image processing techniques
+- 🌐 Developing full-stack web applications
 
 ---
 
@@ -145,5 +253,7 @@ I'm enthusiastically looking for opportunities to:
   
   <br><br>
   
-  <sub>⚡ **Last Updated:** July 2026 | Built with ❤️ by Adhitya</sub>
+  <sub>⚡ **Last Updated:** July 2026 | Built with ❤️ by Adhitya Januarizky Hadi Putra</sub>
+  <br>
+  <sub>🔧 **Role:** IT Supervisor | IT Support Specialist | Full-Stack Developer | Image Processing Specialist</sub>
 </div>
