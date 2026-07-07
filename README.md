@@ -1,10 +1,10 @@
 <!-- Animated Header Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF88&center=true&width=900&lines=👋+Hi,+I'm+Adhitya!;💼+IT+Enthusiast+%7C+IT+Supervisor+%7C+IT+Support+Specialist;🚀+Full+Stack+Developer+%7C+Image+Processing+Expert;📸+Computer+Vision+Explorer+%7C+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF88&center=true&width=1000&lines=👋+Hi,+I'm+Adhitya!;💼+IT+Enthusiast+┃+IT+Supervisor+┃+IT+Support+Specialist;🖥️+Information+Technology+┃+Computer+Science;📸+Image+Processing+Expert+┃+Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <h3>🔧 Information Technology Professional | 📸 Image Processing Specialist | 💡 Technology Innovator</h3>
+  <h3>🔧 IT Professional | 💡 Technology Innovator | 📊 Digital Solutions Architect</h3>
   
   [![GitHub followers](https://img.shields.io/github/followers/Adhitya-Januarizky-Hadi-Putra?style=for-the-badge&color=00FF88&labelColor=1a1a2e)](https://github.com/Adhitya-Januarizky-Hadi-Putra)
   [![GitHub Stars](https://img.shields.io/github/stars/Adhitya-Januarizky-Hadi-Putra?style=for-the-badge&color=00FF88&labelColor=1a1a2e)](https://github.com/Adhitya-Januarizky-Hadi-Putra?tab=repositories)
@@ -14,14 +14,15 @@
 
 ## 💼 About Me
 
-I'm a dedicated **IT Professional** with expertise in **IT Support, Supervision, and System Administration**, combined with a passion for **image processing** and **computer vision** technologies. As an **IT Enthusiast**, I bridge the gap between infrastructure management and cutting-edge development, building robust solutions and creating interactive applications that solve real-world problems.
+I'm a dedicated **IT Professional** with comprehensive expertise in **IT Support, IT Supervision, and System Administration**, combined with a strong background in **Computer Science** and a passion for **image processing** and **computer vision** technologies. As an **IT Enthusiast**, I bridge the gap between infrastructure management and cutting-edge development, delivering robust solutions and creating innovative applications that solve real-world problems.
 
 **🎯 Professional Focus:**
 - 🖥️ **IT Support & Supervision** - Providing technical support, system administration, and IT infrastructure management
 - 🔧 **IT Troubleshooting** - Diagnosing and resolving complex technical issues efficiently
+- 💻 **Computer Science** - Strong foundation in algorithms, data structures, and computational theory
 - 🐍 **Python Development** - Building robust, scalable, and efficient applications
 - 📸 **Image Processing & Computer Vision** - Advanced digital image enhancement and analysis
-- 🎨 **Application Development** - Creating intuitive and user-friendly interfaces
+- 🎨 **Full-Stack Development** - Creating intuitive and user-friendly applications
 - 📚 **Continuous Learning** - Staying updated with latest IT trends and technologies
 - 🤖 **AI & Machine Learning** - Exploring artificial intelligence fundamentals
 
@@ -54,7 +55,7 @@ I'm a dedicated **IT Professional** with expertise in **IT Support, Supervision,
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🎯 Specializations
-**IT Support & Administration** • **Image Processing** • **Computer Vision** • **Data Analysis** • **Full-Stack Development** • **System Infrastructure**
+**IT Support & Administration** • **IT Supervision** • **Computer Science** • **Image Processing** • **Computer Vision** • **Data Analysis** • **Full-Stack Development** • **System Infrastructure**
 
 </div>
 
@@ -106,7 +107,7 @@ I'm a dedicated **IT Professional** with expertise in **IT Support, Supervision,
 
 ---
 
-### 🏥 [Penelusur_Rimba](https://github.com/Adhitya-Januarizky-Hadi-Putra/Penelusur_Rimba)
+### 🌳 [Penelusur_Rimba](https://github.com/Adhitya-Januarizky-Hadi-Putra/Penelusur_Rimba)
 > Blade-based forest exploration and monitoring system
 
 **Features:**
@@ -120,7 +121,7 @@ I'm a dedicated **IT Professional** with expertise in **IT Support, Supervision,
 
 ---
 
-### 🏥 [SEHAT_RASA](https://github.com/Adhitya-Januarizky-Hadi-Putra/SEHAT_RASA)
+### 💊 [SEHAT_RASA](https://github.com/Adhitya-Januarizky-Hadi-Putra/SEHAT_RASA)
 > Comprehensive health and wellness management system
 
 **Description:** TUGAS - Project for health monitoring and wellness tracking
@@ -136,7 +137,7 @@ I'm a dedicated **IT Professional** with expertise in **IT Support, Supervision,
 
 ---
 
-### 🏥 [Sehat-Rasa](https://github.com/Adhitya-Januarizky-Hadi-Putra/Sehat-Rasa)
+### 📱 [Sehat-Rasa](https://github.com/Adhitya-Januarizky-Hadi-Putra/Sehat-Rasa)
 > JavaScript-based health and wellness application
 
 **Features:**
@@ -181,10 +182,10 @@ I'm a dedicated **IT Professional** with expertise in **IT Support, Supervision,
 | 🔬 Current Expertise | 🚀 Currently Learning | 📈 Future Goals |
 |:---:|:---:|:---:|
 | IT Support & Administration | Advanced Image Processing | Cloud Infrastructure |
-| System Troubleshooting | Machine Learning & AI | DevOps & CI/CD |
-| Network Management | Web Development Frameworks | Cybersecurity |
-| Database Management | Docker & Containerization | Data Science |
-| User Support | Kubernetes Orchestration | Enterprise Solutions |
+| IT Supervision & Leadership | Machine Learning & AI | DevOps & CI/CD |
+| System Troubleshooting | Web Development Frameworks | Cybersecurity |
+| Network Management | Docker & Containerization | Data Science |
+| Database Management | Kubernetes Orchestration | Enterprise Solutions |
 
 </div>
 
@@ -255,5 +256,5 @@ I'm enthusiastically looking for opportunities to:
   
   <sub>⚡ **Last Updated:** July 2026 | Built with ❤️ by Adhitya Januarizky Hadi Putra</sub>
   <br>
-  <sub>🔧 **Role:** IT Supervisor | IT Support Specialist | Full-Stack Developer | Image Processing Specialist</sub>
+  <sub>🔧 **Role:** IT Supervisor | IT Support Specialist | Full-Stack Developer | Image Processing Specialist | Computer Science Enthusiast</sub>
 </div>
