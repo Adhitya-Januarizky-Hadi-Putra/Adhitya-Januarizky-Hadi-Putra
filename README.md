@@ -137,29 +137,7 @@ I'm a dedicated **IT Professional** with comprehensive expertise in **IT Support
 
 ---
 
-### 📱 [Sehat-Rasa](https://github.com/Adhitya-Januarizky-Hadi-Putra/Sehat-Rasa)
-> JavaScript-based health and wellness application
 
-**Features:**
-- 📊 Health statistics
-- 💾 Data persistence
-- 🎯 Goal tracking
-- 📱 Responsive interface
-
-**Tech Stack:** JavaScript | HTML5 | CSS3  
-**Last Updated:** July 6, 2025 | **Status:** Maintained
-
----
-
-### 📚 [KELOMPOK-9](https://github.com/Adhitya-Januarizky-Hadi-Putra/KELOMPOK-9)
-> PROJECT UAS KELOMPOK 0 - Collaborative university final project
-
-**Description:** Comprehensive group project for academic purposes
-
-**Tech Stack:** Multi-language  
-**Last Updated:** December 22, 2022 | **Status:** Archived
-
----
 
 ## 📊 GitHub Statistics
 
